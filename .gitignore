@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 
+# Package-generated files
+.pytest_cache/
+
 # Virtual environments
 .venv
 .env
